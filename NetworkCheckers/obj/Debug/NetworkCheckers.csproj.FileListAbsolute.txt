@@ -1,0 +1,8 @@
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.Properties.Resources.resources
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.exe.config
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.exe
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.pdb
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.exe
+C:\Users\Bruno\Desktop\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.pdb
